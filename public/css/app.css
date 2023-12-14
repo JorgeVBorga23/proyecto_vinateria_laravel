@@ -1,0 +1,50 @@
+body{
+    font-family: system-ui, sans-serif;
+}
+bg-secondary {
+    background-color: #a81c96 !important;
+    }
+    .copyright {
+    background-color: #b4841b;
+    }
+    .bg-primary {
+    background-color: #b4841b !important;
+    }
+    nav{
+    font-weight: 700;
+    padding: 0%;
+    }
+    .img-card{
+    height: 18vw;
+    object-fit: cover;
+    }
+    .navbar{
+        background-color: #e6b03d !important;
+        padding-bottom:0%;
+    }
+    p{
+        font-size: 80%;
+        font-weight: 400;
+        text-align: justify;
+    }
+    
+
+   
+    .hover {
+      --s: 0.3em;   /* the thickness of the line */
+      --c: #ffffff; /* the color */
+      
+      color: #0000;
+      padding-bottom: var(--s);
+      background: 
+        linear-gradient(90deg,var(--c) 50%,#000 0) calc(100% - var(--_p,0%))/200% 100%,
+        linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) var(--s) no-repeat;
+      -webkit-background-clip: text,padding-box;
+              background-clip: text,padding-box;
+      transition: 0.5s;
+    }
+    .hover:hover {
+      --_p: 100%
+    }
+    
+  

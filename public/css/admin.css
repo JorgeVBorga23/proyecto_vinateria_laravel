@@ -1,0 +1,32 @@
+.copyright {
+    background-color: #000000;
+    }
+    .fixed {
+        -ms-flex: 0 0 250px;
+        flex: 0 0 250px;
+    }
+    .content-grey {
+        background-color: #777676;
+    }
+    hr {
+        margin-top: 0.8em;
+        margin-bottom: 0.8em;
+    }
+    .img-profile {
+        height: 2rem;
+        width: 2rem;
+    }
+    .profile-font {
+        color: #ffffff !important;
+        font-size: 80%;
+        font-weight: 400;
+    }
+    .card-header {
+        background-color: #204761;
+        border-bottom: 1px solid #edeef4;
+        color: white;
+    }
+    .modopanel {
+        background-color:#0b0a0b;
+    
+    }
